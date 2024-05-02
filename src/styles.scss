@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url(./main-styles.scss);
+@import './main-styles.scss';
+@import 'main-styles.scss';
+@import '../node_modules/bulma/bulma.scss';
+
+html {
+  background-color: #ddd !important;
+  background-image: url('https://i0.wp.com/thetrilogybybuddhabar.com/wp-content/uploads/2023/01/logo-03.png?fit=400%2C400&ssl=1');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
